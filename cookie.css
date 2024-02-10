@@ -1,0 +1,17 @@
+.zone0{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.zone1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.zone2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
